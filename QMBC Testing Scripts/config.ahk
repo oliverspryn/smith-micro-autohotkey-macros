@@ -1,0 +1,10 @@
+name = may27
+description = may27
+group = maygroup
+IP = 65.127.38.110
+username = may39
+password = Safe4Me
+QSP = smsi
+MouseX = 410
+MouseY = 202
+WifiPswd = pleaseletmein
